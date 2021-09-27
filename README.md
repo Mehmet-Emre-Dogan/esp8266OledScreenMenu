@@ -11,14 +11,28 @@ Connect the circuit elements according to the schematic below.
 <div align="center">
 <img src="https://github.com/Mehmet-Emre-Dogan/esp8266OledScreenMenu/blob/main/Schematic_esp8266OledScreenMenu_2021-09-28.png"> </img>
 </div>
+
 ## Pictures of the circuit
+### Overall Circuit
 <div align="center">
 <img src="https://github.com/Mehmet-Emre-Dogan/esp8266OledScreenMenu/blob/main/overallCct.jpg"> </img>
 <br> </br>
+</div>
+
+### Oled screen
+<div align="center">
 <img src="https://github.com/Mehmet-Emre-Dogan/esp8266OledScreenMenu/blob/main/oledCloseUp.jpg"> </img>
 <br> </br>
+</div>
+
+### External EEPROM module
+<div align="center">
 <img src="https://github.com/Mehmet-Emre-Dogan/esp8266OledScreenMenu/blob/main/eepromCloseUp.jpg"> </img>
 <br> </br>
+</div>
+
+### Rotary encoder module
+<div align="center">
 <img src="https://github.com/Mehmet-Emre-Dogan/esp8266OledScreenMenu/blob/main/rotaryCloseUp.jpg"> </img>
 <br> </br>
 </div>
